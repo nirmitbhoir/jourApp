@@ -21,8 +21,7 @@
 
     <properties>
         <java.version>17</java.version>
-        <sonar.host.url>http://localhost:9000</sonar.host.url>
-        <sonar.projectKey>jourApp</sonar.projectKey>
+        <sonar.organization>nirmitbhoir</sonar.organization>
     </properties>
 
     <dependencies>
